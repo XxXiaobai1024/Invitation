@@ -1,0 +1,86 @@
+/*!
+ * Start Bootstrap - Full Width Pics (https://startbootstrap.com/template-overviews/full-width-pics)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
+ */
+body {
+  font-family: 'Microsoft Yahei', sans-serif;
+  color: #58564d;
+  background-color: #f2f1ef;
+}
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+p {
+  font-family: 'Microsoft Yahei',sans-serif;
+	font-size: 0.8rem;
+}
+.lead {
+    font-size: 1rem;
+    font-weight: 200;
+}
+.pb-3 {
+    padding-bottom: 3rem!important;
+}
+.pt-3 {
+	padding-top: 3rem!important;
+}
+.pb-5 {
+    padding-bottom: 5rem!important;
+}
+.pt-5 {
+	padding-top: 5rem!important;
+}
+.py-5 {
+	padding-bottom: 0px!important;
+    padding-top: 5rem!important;
+}
+.pd-0{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.pt-1 {
+	padding-top: 1rem!important;
+}
+.bg-white {
+	background-color: #ffffff;
+}
+.text-gray {
+	color: #88847d;
+  font-family: 'Microsoft Yahei', sans-serif;
+}
+th {
+  font-family: 'Microsoft Yahei', sans-serif;
+}
+.mt-5 {
+  margin-top: 5px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.lh-25 {
+  line-height: 25px;
+}
+hr {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    border: 0;
+    border-top: 1px solid rgba(86, 85, 81, 0.55);
+}
+#d-day {
+  color: #e8e8e8;
+<<<<<<< Updated upstream
+  font-family: 'Microsoft Yahei', sans-serif;
+  font-size: 15px;
+=======
+>>>>>>> Stashed changes
+}
+.display-5 {
+  font-family: 'Microsoft Yahei', sans-serif;
+}
